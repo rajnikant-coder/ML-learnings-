@@ -1,4 +1,4 @@
-# 🤖 Machine Learning Learning Journey
+# 🤖 ML Learning Journey
 
 This repository contains my hands-on **Machine Learning practice notebooks**. It follows a learning path from data exploration and preprocessing to regression, classification, model tuning, ensemble methods, and unsupervised learning using Python.
 
